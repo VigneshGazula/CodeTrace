@@ -2,8 +2,6 @@
 
 CodeTrace is a comprehensive coding profile tracking and performance analytics platform designed for college students. It aggregates coding platform data, evaluates performance, and presents leaderboards to encourage consistency, competition, and growth among students.
 
----
-
 ## 🚀 Features
 
 - 🎓 **College-Based Registration**
@@ -34,16 +32,12 @@ CodeTrace is a comprehensive coding profile tracking and performance analytics p
   - Simple and intuitive UI
   - Easy navigation between profiles, scores, and rankings
 
----
-
 ## 🛠️ Tech Stack
 
 - **Backend:** ASP.NET Core Web API  
 - **Frontend:** Angular  
 - **Database:** SQL Server  
 - **Authentication:**
-
----
 
 ## 🗃️ How CodeTrace Works
 
@@ -54,15 +48,11 @@ CodeTrace is a comprehensive coding profile tracking and performance analytics p
 5. Leaderboards are updated dynamically
 6. Admins monitor and manage the platform
 
----
-
 ## 🔐 Security & Access
 
 - Access restricted to verified college users
 - Role-based access (Student / Admin)
 - Secure APIs with authentication and authorization (planned)
-
----
 
 ## 🚧 Future Enhancements
 
@@ -72,8 +62,6 @@ CodeTrace is a comprehensive coding profile tracking and performance analytics p
 - 🏅 Badges and achievement system
 - 🌐 Multi-college support
 - 📱 Mobile-friendly UI
-
----
 
 ## 🏗️ Setup & Installation
 
